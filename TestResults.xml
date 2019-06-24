@@ -1,0 +1,1001 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" duration="357.52" testcasecount="112" total="112" passed="108" failed="4" inconclusive="0" skipped="0" result="Failed" start-time="2019-06-24T 10:36:47Z" end-time="2019-06-24T 10:38:17Z">
+  <test-suite type="Assembly" name="Tests.dll" fullname="C:\web-locations-aqa\Tests\bin\QA\netcoreapp2.1\Tests.dll" total="112" passed="108" failed="4" inconclusive="0" skipped="0" result="Failed" duration="357.52">
+    <test-suite type="TestSuite" name="Tests" fullname="Tests" total="112" passed="108" failed="4" inconclusive="0" skipped="0" result="Failed" duration="357.52">
+      <test-suite type="TestSuite" name="Api" fullname="Tests.Api" total="112" passed="108" failed="4" inconclusive="0" skipped="0" result="Failed" duration="357.52">
+        <test-suite type="TestSuite" name="EnumarateChildLocations" fullname="Tests.Api.EnumarateChildLocations" total="13" passed="13" failed="0" inconclusive="0" skipped="0" result="Passed" duration="26.325">
+          <test-suite type="TestFixture" name="ForArea_14" fullname="Tests.Api.EnumarateChildLocations.ForArea_14" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="3.812">
+            <test-case name="Test14" fullname="Tests.Api.EnumarateChildLocations.ForArea_14.Test14" methodname="Test14" classname="Tests.Api.EnumarateChildLocations.ForArea_14" result="Passed" duration="3.812" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-14" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForCity_15" fullname="Tests.Api.EnumarateChildLocations.ForCity_15" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.371">
+            <test-case name="Test15" fullname="Tests.Api.EnumarateChildLocations.ForCity_15.Test15" methodname="Test15" classname="Tests.Api.EnumarateChildLocations.ForCity_15" result="Passed" duration="2.371" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-15" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForCountry_16" fullname="Tests.Api.EnumarateChildLocations.ForCountry_16" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="6.652">
+            <test-case name="Test16" fullname="Tests.Api.EnumarateChildLocations.ForCountry_16.Test16" methodname="Test16" classname="Tests.Api.EnumarateChildLocations.ForCountry_16" result="Passed" duration="6.652" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-16" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForCounty_17" fullname="Tests.Api.EnumarateChildLocations.ForCounty_17" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.7369999999999999">
+            <test-case name="Test17" fullname="Tests.Api.EnumarateChildLocations.ForCounty_17.Test17" methodname="Test17" classname="Tests.Api.EnumarateChildLocations.ForCounty_17" result="Passed" duration="1.7369999999999999" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-17" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForIdsThatDoNotExist_26" fullname="Tests.Api.EnumarateChildLocations.ForIdsThatDoNotExist_26" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.0879999999999999">
+            <test-case name="Test26" fullname="Tests.Api.EnumarateChildLocations.ForIdsThatDoNotExist_26.Test26" methodname="Test26" classname="Tests.Api.EnumarateChildLocations.ForIdsThatDoNotExist_26" result="Passed" duration="1.0879999999999999" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-26" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForIsland_18" fullname="Tests.Api.EnumarateChildLocations.ForIsland_18" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.2729999999999997">
+            <test-case name="Test18" fullname="Tests.Api.EnumarateChildLocations.ForIsland_18.Test18" methodname="Test18" classname="Tests.Api.EnumarateChildLocations.ForIsland_18" result="Passed" duration="2.2729999999999997" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-18" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForPartPostCode_19" fullname="Tests.Api.EnumarateChildLocations.ForPartPostCode_19" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.2239999999999998">
+            <test-case name="Test19" fullname="Tests.Api.EnumarateChildLocations.ForPartPostCode_19.Test19" methodname="Test19" classname="Tests.Api.EnumarateChildLocations.ForPartPostCode_19" result="Passed" duration="2.2239999999999998" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-19" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForPostCode_20" fullname="Tests.Api.EnumarateChildLocations.ForPostCode_20" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.618">
+            <test-case name="Test20" fullname="Tests.Api.EnumarateChildLocations.ForPostCode_20.Test20" methodname="Test20" classname="Tests.Api.EnumarateChildLocations.ForPostCode_20" result="Passed" duration="0.618" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-20" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForRegion_22" fullname="Tests.Api.EnumarateChildLocations.ForRegion_22" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.848">
+            <test-case name="Test22" fullname="Tests.Api.EnumarateChildLocations.ForRegion_22.Test22" methodname="Test22" classname="Tests.Api.EnumarateChildLocations.ForRegion_22" result="Passed" duration="0.848" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-22" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForStreet_23" fullname="Tests.Api.EnumarateChildLocations.ForStreet_23" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.034">
+            <test-case name="Test23" fullname="Tests.Api.EnumarateChildLocations.ForStreet_23.Test23" methodname="Test23" classname="Tests.Api.EnumarateChildLocations.ForStreet_23" result="Passed" duration="1.034" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-23" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForSubCountry_24" fullname="Tests.Api.EnumarateChildLocations.ForSubCountry_24" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.16">
+            <test-case name="Test24" fullname="Tests.Api.EnumarateChildLocations.ForSubCountry_24.Test24" methodname="Test24" classname="Tests.Api.EnumarateChildLocations.ForSubCountry_24" result="Passed" duration="1.16" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-24" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForTown_25" fullname="Tests.Api.EnumarateChildLocations.ForTown_25" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.013">
+            <test-case name="Test25" fullname="Tests.Api.EnumarateChildLocations.ForTown_25.Test25" methodname="Test25" classname="Tests.Api.EnumarateChildLocations.ForTown_25" result="Passed" duration="1.013" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-25" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="WithInvalidParameters_27" fullname="Tests.Api.EnumarateChildLocations.WithInvalidParameters_27" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.4949999999999999">
+            <test-case name="Test27" fullname="Tests.Api.EnumarateChildLocations.WithInvalidParameters_27.Test27" methodname="Test27" classname="Tests.Api.EnumarateChildLocations.WithInvalidParameters_27" result="Passed" duration="1.4949999999999999" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-27" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+        <test-suite type="TestSuite" name="EnumerateAllLocations" fullname="Tests.Api.EnumerateAllLocations" total="10" passed="10" failed="0" inconclusive="0" skipped="0" result="Passed" duration="66.455">
+          <test-suite type="TestFixture" name="FilterByCountryCodes_5" fullname="Tests.Api.EnumerateAllLocations.FilterByCountryCodes_5" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="3.461">
+            <test-case name="Test5" fullname="Tests.Api.EnumerateAllLocations.FilterByCountryCodes_5.Test5" methodname="Test5" classname="Tests.Api.EnumerateAllLocations.FilterByCountryCodes_5" result="Passed" duration="3.461" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-5" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="FilterByIsDeprecated_3" fullname="Tests.Api.EnumerateAllLocations.FilterByIsDeprecated_3" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.23">
+            <test-case name="Test3" fullname="Tests.Api.EnumerateAllLocations.FilterByIsDeprecated_3.Test3" methodname="Test3" classname="Tests.Api.EnumerateAllLocations.FilterByIsDeprecated_3" result="Passed" duration="1.23" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-3" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="FilterByLocationType_7" fullname="Tests.Api.EnumerateAllLocations.FilterByLocationType_7" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.417">
+            <test-case name="Test7" fullname="Tests.Api.EnumerateAllLocations.FilterByLocationType_7.Test7" methodname="Test7" classname="Tests.Api.EnumerateAllLocations.FilterByLocationType_7" result="Passed" duration="1.417" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-7" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="FilterByLocationTypeCountryCode_6" fullname="Tests.Api.EnumerateAllLocations.FilterByLocationTypeCountryCode_6" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.826">
+            <test-case name="Test6" fullname="Tests.Api.EnumerateAllLocations.FilterByLocationTypeCountryCode_6.Test6" methodname="Test6" classname="Tests.Api.EnumerateAllLocations.FilterByLocationTypeCountryCode_6" result="Passed" duration="0.826" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-6" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="FilterByMapping_8" fullname="Tests.Api.EnumerateAllLocations.FilterByMapping_8" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.40399999999999997">
+            <test-case name="Test8" fullname="Tests.Api.EnumerateAllLocations.FilterByMapping_8.Test8" methodname="Test8" classname="Tests.Api.EnumerateAllLocations.FilterByMapping_8" result="Passed" duration="0.40399999999999997" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-8" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="RequestLatButOnePageOfLocations_10" fullname="Tests.Api.EnumerateAllLocations.RequestLatButOnePageOfLocations_10" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.857">
+            <test-case name="Test10" fullname="Tests.Api.EnumerateAllLocations.RequestLatButOnePageOfLocations_10.Test10" methodname="Test10" classname="Tests.Api.EnumerateAllLocations.RequestLatButOnePageOfLocations_10" result="Passed" duration="0.857" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-10" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="RequetTheLastLocationsPage_13" fullname="Tests.Api.EnumerateAllLocations.RequetTheLastLocationsPage_13" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.835">
+            <test-case name="Test13" fullname="Tests.Api.EnumerateAllLocations.RequetTheLastLocationsPage_13.Test13" methodname="Test13" classname="Tests.Api.EnumerateAllLocations.RequetTheLastLocationsPage_13" result="Passed" duration="0.835" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-13" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="WithInvalidParameters_9" fullname="Tests.Api.EnumerateAllLocations.WithInvalidParameters_9" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="5.249">
+            <test-case name="Test9" fullname="Tests.Api.EnumerateAllLocations.WithInvalidParameters_9.Test9" methodname="Test9" classname="Tests.Api.EnumerateAllLocations.WithInvalidParameters_9" result="Passed" duration="5.249" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-9" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="WithoutPageTokenSpecified_12" fullname="Tests.Api.EnumerateAllLocations.WithoutPageTokenSpecified_12" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="51.455">
+            <test-case name="Test12" fullname="Tests.Api.EnumerateAllLocations.WithoutPageTokenSpecified_12.Test12" methodname="Test12" classname="Tests.Api.EnumerateAllLocations.WithoutPageTokenSpecified_12" result="Passed" duration="51.455" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-12" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="WithPageTokenSpecified_11" fullname="Tests.Api.EnumerateAllLocations.WithPageTokenSpecified_11" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.721">
+            <test-case name="Test11" fullname="Tests.Api.EnumerateAllLocations.WithPageTokenSpecified_11.Test11" methodname="Test11" classname="Tests.Api.EnumerateAllLocations.WithPageTokenSpecified_11" result="Passed" duration="0.721" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-11" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+        <test-suite type="TestSuite" name="QueryAllParentLocations" fullname="Tests.Api.QueryAllParentLocations" total="18" passed="18" failed="0" inconclusive="0" skipped="0" result="Passed" duration="37.214">
+          <test-suite type="TestFixture" name="ForArea_28" fullname="Tests.Api.QueryAllParentLocations.ForArea_28" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="4.668">
+            <test-case name="Test28" fullname="Tests.Api.QueryAllParentLocations.ForArea_28.Test28" methodname="Test28" classname="Tests.Api.QueryAllParentLocations.ForArea_28" result="Passed" duration="4.668" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-28" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForCity_29" fullname="Tests.Api.QueryAllParentLocations.ForCity_29" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.796">
+            <test-case name="Test29" fullname="Tests.Api.QueryAllParentLocations.ForCity_29.Test29" methodname="Test29" classname="Tests.Api.QueryAllParentLocations.ForCity_29" result="Passed" duration="2.796" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-29" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForCountry_30" fullname="Tests.Api.QueryAllParentLocations.ForCountry_30" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.335">
+            <test-case name="Test30" fullname="Tests.Api.QueryAllParentLocations.ForCountry_30.Test30" methodname="Test30" classname="Tests.Api.QueryAllParentLocations.ForCountry_30" result="Passed" duration="1.335" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-30" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForCounty_31" fullname="Tests.Api.QueryAllParentLocations.ForCounty_31" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.74">
+            <test-case name="Test31" fullname="Tests.Api.QueryAllParentLocations.ForCounty_31.Test31" methodname="Test31" classname="Tests.Api.QueryAllParentLocations.ForCounty_31" result="Passed" duration="1.74" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-31" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForForeignTown_32" fullname="Tests.Api.QueryAllParentLocations.ForForeignTown_32" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.79199999999999993">
+            <test-case name="Test32" fullname="Tests.Api.QueryAllParentLocations.ForForeignTown_32.Test32" methodname="Test32" classname="Tests.Api.QueryAllParentLocations.ForForeignTown_32" result="Passed" duration="0.79199999999999993" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-32" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForIdsThatDoNotExist_44" fullname="Tests.Api.QueryAllParentLocations.ForIdsThatDoNotExist_44" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.309">
+            <test-case name="Test44" fullname="Tests.Api.QueryAllParentLocations.ForIdsThatDoNotExist_44.Test44" methodname="Test44" classname="Tests.Api.QueryAllParentLocations.ForIdsThatDoNotExist_44" result="Passed" duration="0.309" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-44" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForIsland_33" fullname="Tests.Api.QueryAllParentLocations.ForIsland_33" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.8239999999999998">
+            <test-case name="Test33" fullname="Tests.Api.QueryAllParentLocations.ForIsland_33.Test33" methodname="Test33" classname="Tests.Api.QueryAllParentLocations.ForIsland_33" result="Passed" duration="1.8239999999999998" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-33" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForPartPostCode_34" fullname="Tests.Api.QueryAllParentLocations.ForPartPostCode_34" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.395">
+            <test-case name="Test34" fullname="Tests.Api.QueryAllParentLocations.ForPartPostCode_34.Test34" methodname="Test34" classname="Tests.Api.QueryAllParentLocations.ForPartPostCode_34" result="Passed" duration="1.395" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-34" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForPostCodeNotRefStreetOrArea_35" fullname="Tests.Api.QueryAllParentLocations.ForPostCodeNotRefStreetOrArea_35" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.437">
+            <test-case name="Test35" fullname="Tests.Api.QueryAllParentLocations.ForPostCodeNotRefStreetOrArea_35.Test35" methodname="Test35" classname="Tests.Api.QueryAllParentLocations.ForPostCodeNotRefStreetOrArea_35" result="Passed" duration="2.437" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-35" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForPostCodeRefCustomArea_37" fullname="Tests.Api.QueryAllParentLocations.ForPostCodeRefCustomArea_37" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.776">
+            <test-case name="Test37" fullname="Tests.Api.QueryAllParentLocations.ForPostCodeRefCustomArea_37.Test37" methodname="Test37" classname="Tests.Api.QueryAllParentLocations.ForPostCodeRefCustomArea_37" result="Passed" duration="1.776" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-37" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForPostCodeRefPAFArea_39" fullname="Tests.Api.QueryAllParentLocations.ForPostCodeRefPAFArea_39" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.756">
+            <test-case name="Test39" fullname="Tests.Api.QueryAllParentLocations.ForPostCodeRefPAFArea_39.Test39" methodname="Test39" classname="Tests.Api.QueryAllParentLocations.ForPostCodeRefPAFArea_39" result="Passed" duration="2.756" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-39" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForPostCodeRefPAFCustomArea_38" fullname="Tests.Api.QueryAllParentLocations.ForPostCodeRefPAFCustomArea_38" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.667">
+            <test-case name="Test38" fullname="Tests.Api.QueryAllParentLocations.ForPostCodeRefPAFCustomArea_38.Test38" methodname="Test38" classname="Tests.Api.QueryAllParentLocations.ForPostCodeRefPAFCustomArea_38" result="Passed" duration="2.667" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-38" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForPostCodeRefStreet_36" fullname="Tests.Api.QueryAllParentLocations.ForPostCodeRefStreet_36" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="5.491">
+            <test-case name="Test36" fullname="Tests.Api.QueryAllParentLocations.ForPostCodeRefStreet_36.Test36" methodname="Test36" classname="Tests.Api.QueryAllParentLocations.ForPostCodeRefStreet_36" result="Passed" duration="5.491" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-36" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForRegion_40" fullname="Tests.Api.QueryAllParentLocations.ForRegion_40" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.9969999999999999">
+            <test-case name="Test40" fullname="Tests.Api.QueryAllParentLocations.ForRegion_40.Test40" methodname="Test40" classname="Tests.Api.QueryAllParentLocations.ForRegion_40" result="Passed" duration="1.9969999999999999" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-40" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForStreet_41" fullname="Tests.Api.QueryAllParentLocations.ForStreet_41" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.41">
+            <test-case name="Test41" fullname="Tests.Api.QueryAllParentLocations.ForStreet_41.Test41" methodname="Test41" classname="Tests.Api.QueryAllParentLocations.ForStreet_41" result="Passed" duration="1.41" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-41" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForSubCountry_42" fullname="Tests.Api.QueryAllParentLocations.ForSubCountry_42" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.208">
+            <test-case name="Test42" fullname="Tests.Api.QueryAllParentLocations.ForSubCountry_42.Test42" methodname="Test42" classname="Tests.Api.QueryAllParentLocations.ForSubCountry_42" result="Passed" duration="1.208" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-42" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ForUKTown_43" fullname="Tests.Api.QueryAllParentLocations.ForUKTown_43" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.515">
+            <test-case name="Test43" fullname="Tests.Api.QueryAllParentLocations.ForUKTown_43.Test43" methodname="Test43" classname="Tests.Api.QueryAllParentLocations.ForUKTown_43" result="Passed" duration="1.515" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-43" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="WithInvalidParameters_45" fullname="Tests.Api.QueryAllParentLocations.WithInvalidParameters_45" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.0979999999999999">
+            <test-case name="Test45" fullname="Tests.Api.QueryAllParentLocations.WithInvalidParameters_45.Test45" methodname="Test45" classname="Tests.Api.QueryAllParentLocations.WithInvalidParameters_45" result="Passed" duration="1.0979999999999999" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-45" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+        <test-suite type="TestSuite" name="QueryLocationsByIds" fullname="Tests.Api.QueryLocationsByIds" total="7" passed="7" failed="0" inconclusive="0" skipped="0" result="Passed" duration="15.902">
+          <test-suite type="TestFixture" name="ByIdsWithInvalidParameters_47" fullname="Tests.Api.QueryLocationsByIds.ByIdsWithInvalidParameters_47" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.286">
+            <test-case name="Test47" fullname="Tests.Api.QueryLocationsByIds.ByIdsWithInvalidParameters_47.Test47" methodname="Test47" classname="Tests.Api.QueryLocationsByIds.ByIdsWithInvalidParameters_47" result="Passed" duration="2.286" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-47" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ByIdThatDoesNotExist_46" fullname="Tests.Api.QueryLocationsByIds.ByIdThatDoesNotExist_46" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.724">
+            <test-case name="Test46" fullname="Tests.Api.QueryLocationsByIds.ByIdThatDoesNotExist_46.Test46" methodname="Test46" classname="Tests.Api.QueryLocationsByIds.ByIdThatDoesNotExist_46" result="Passed" duration="1.724" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-46" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ByMultipleIds_48" fullname="Tests.Api.QueryLocationsByIds.ByMultipleIds_48" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="3.032">
+            <test-case name="Test48" fullname="Tests.Api.QueryLocationsByIds.ByMultipleIds_48.Test48" methodname="Test48" classname="Tests.Api.QueryLocationsByIds.ByMultipleIds_48" result="Passed" duration="3.032" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-48" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="QueryOneLocationById_52" fullname="Tests.Api.QueryLocationsByIds.QueryOneLocationById_52" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.5979999999999999">
+            <test-case name="Test52" fullname="Tests.Api.QueryLocationsByIds.QueryOneLocationById_52.Test52" methodname="Test52" classname="Tests.Api.QueryLocationsByIds.QueryOneLocationById_52" result="Passed" duration="1.5979999999999999" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-52" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="WithBuffereBoundingBox_49" fullname="Tests.Api.QueryLocationsByIds.WithBuffereBoundingBox_49" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.627">
+            <test-case name="Test49" fullname="Tests.Api.QueryLocationsByIds.WithBuffereBoundingBox_49.Test49" methodname="Test49" classname="Tests.Api.QueryLocationsByIds.WithBuffereBoundingBox_49" result="Passed" duration="1.627" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-49" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="WithBufferedBoundingCircle_50" fullname="Tests.Api.QueryLocationsByIds.WithBufferedBoundingCircle_50" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.325">
+            <test-case name="Test50" fullname="Tests.Api.QueryLocationsByIds.WithBufferedBoundingCircle_50.Test50" methodname="Test50" classname="Tests.Api.QueryLocationsByIds.WithBufferedBoundingCircle_50" result="Passed" duration="1.325" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-50" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="WithBufferedGeometry_51" fullname="Tests.Api.QueryLocationsByIds.WithBufferedGeometry_51" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="4.31">
+            <test-case name="Test51" fullname="Tests.Api.QueryLocationsByIds.WithBufferedGeometry_51.Test51" methodname="Test51" classname="Tests.Api.QueryLocationsByIds.WithBufferedGeometry_51" result="Passed" duration="4.31" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-51" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+        <test-suite type="TestSuite" name="QueryTopLevelLocations" fullname="Tests.Api.QueryTopLevelLocations" total="6" passed="6" failed="0" inconclusive="0" skipped="0" result="Passed" duration="25.52">
+          <test-suite type="TestFixture" name="FilterByCountryCodes_53" fullname="Tests.Api.QueryTopLevelLocations.FilterByCountryCodes_53" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="3.151">
+            <test-case name="Test53" fullname="Tests.Api.QueryTopLevelLocations.FilterByCountryCodes_53.Test53" methodname="Test53" classname="Tests.Api.QueryTopLevelLocations.FilterByCountryCodes_53" result="Passed" duration="3.151" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-53" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="RequestLastButOnePage_55" fullname="Tests.Api.QueryTopLevelLocations.RequestLastButOnePage_55" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.66599999999999993">
+            <test-case name="Test55" fullname="Tests.Api.QueryTopLevelLocations.RequestLastButOnePage_55.Test55" methodname="Test55" classname="Tests.Api.QueryTopLevelLocations.RequestLastButOnePage_55" result="Passed" duration="0.66599999999999993" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-55" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="RequestLastPage_56" fullname="Tests.Api.QueryTopLevelLocations.RequestLastPage_56" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.52">
+            <test-case name="Test56" fullname="Tests.Api.QueryTopLevelLocations.RequestLastPage_56.Test56" methodname="Test56" classname="Tests.Api.QueryTopLevelLocations.RequestLastPage_56" result="Passed" duration="0.52" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-56" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="WithInvalidParameters_54" fullname="Tests.Api.QueryTopLevelLocations.WithInvalidParameters_54" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.101">
+            <test-case name="Test54" fullname="Tests.Api.QueryTopLevelLocations.WithInvalidParameters_54.Test54" methodname="Test54" classname="Tests.Api.QueryTopLevelLocations.WithInvalidParameters_54" result="Passed" duration="2.101" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-54" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="WithoutPageTokenSpecified_58" fullname="Tests.Api.QueryTopLevelLocations.WithoutPageTokenSpecified_58" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="16.842">
+            <test-case name="Test58" fullname="Tests.Api.QueryTopLevelLocations.WithoutPageTokenSpecified_58.Test58" methodname="Test58" classname="Tests.Api.QueryTopLevelLocations.WithoutPageTokenSpecified_58" result="Passed" duration="16.842" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-58" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="WithPageTokenSpecified_57" fullname="Tests.Api.QueryTopLevelLocations.WithPageTokenSpecified_57" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.2399999999999998">
+            <test-case name="Test57" fullname="Tests.Api.QueryTopLevelLocations.WithPageTokenSpecified_57.Test57" methodname="Test57" classname="Tests.Api.QueryTopLevelLocations.WithPageTokenSpecified_57" result="Passed" duration="2.2399999999999998" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-57" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+        <test-suite type="TestSuite" name="SearchByCoordinate" fullname="Tests.Api.SearchByCoordinate" total="7" passed="7" failed="0" inconclusive="0" skipped="0" result="Passed" duration="12.758">
+          <test-suite type="TestFixture" name="ByCoordinatesNoMatchWithPostCode_63" fullname="Tests.Api.SearchByCoordinate.ByCoordinatesNoMatchWithPostCode_63" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.511">
+            <test-case name="Test63" fullname="Tests.Api.SearchByCoordinate.ByCoordinatesNoMatchWithPostCode_63.Test63" methodname="Test63" classname="Tests.Api.SearchByCoordinate.ByCoordinatesNoMatchWithPostCode_63" result="Passed" duration="1.511" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-63" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ByCoordinateThatMatchPostCode_64" fullname="Tests.Api.SearchByCoordinate.ByCoordinateThatMatchPostCode_64" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="6.0169999999999995">
+            <test-case name="Test64" fullname="Tests.Api.SearchByCoordinate.ByCoordinateThatMatchPostCode_64.Test64" methodname="Test64" classname="Tests.Api.SearchByCoordinate.ByCoordinateThatMatchPostCode_64" result="Passed" duration="6.0169999999999995" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-64" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ByValidCoordinatesMissingInDB_62" fullname="Tests.Api.SearchByCoordinate.ByValidCoordinatesMissingInDB_62" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.724">
+            <test-case name="Test62" fullname="Tests.Api.SearchByCoordinate.ByValidCoordinatesMissingInDB_62.Test62" methodname="Test62" classname="Tests.Api.SearchByCoordinate.ByValidCoordinatesMissingInDB_62" result="Passed" duration="0.724" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-62" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="FilterByCountryCodes_59" fullname="Tests.Api.SearchByCoordinate.FilterByCountryCodes_59" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.072">
+            <test-case name="Test59" fullname="Tests.Api.SearchByCoordinate.FilterByCountryCodes_59.Test59" methodname="Test59" classname="Tests.Api.SearchByCoordinate.FilterByCountryCodes_59" result="Passed" duration="2.072" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-59" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="FilterByIsDeprecated_60" fullname="Tests.Api.SearchByCoordinate.FilterByIsDeprecated_60" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.33899999999999997">
+            <test-case name="Test60" fullname="Tests.Api.SearchByCoordinate.FilterByIsDeprecated_60.Test60" methodname="Test60" classname="Tests.Api.SearchByCoordinate.FilterByIsDeprecated_60" result="Passed" duration="0.33899999999999997" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-60" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="FilterByMapping_61" fullname="Tests.Api.SearchByCoordinate.FilterByMapping_61" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.78699999999999992">
+            <test-case name="Test61" fullname="Tests.Api.SearchByCoordinate.FilterByMapping_61.Test61" methodname="Test61" classname="Tests.Api.SearchByCoordinate.FilterByMapping_61" result="Passed" duration="0.78699999999999992" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-61" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="WithInvalidParameters_65" fullname="Tests.Api.SearchByCoordinate.WithInvalidParameters_65" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.308">
+            <test-case name="Test65" fullname="Tests.Api.SearchByCoordinate.WithInvalidParameters_65.Test65" methodname="Test65" classname="Tests.Api.SearchByCoordinate.WithInvalidParameters_65" result="Passed" duration="1.308" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-65" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+        <test-suite type="TestSuite" name="SearchByOldLocalityIds" fullname="Tests.Api.SearchByOldLocalityIds" total="6" passed="6" failed="0" inconclusive="0" skipped="0" result="Passed" duration="6.146">
+          <test-suite type="TestFixture" name="ByAnExistingOldLocalityId_68" fullname="Tests.Api.SearchByOldLocalityIds.ByAnExistingOldLocalityId_68" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.271">
+            <test-case name="Test68" fullname="Tests.Api.SearchByOldLocalityIds.ByAnExistingOldLocalityId_68.Test68" methodname="Test68" classname="Tests.Api.SearchByOldLocalityIds.ByAnExistingOldLocalityId_68" result="Passed" duration="2.271" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-68" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ByExistingOldIds_69" fullname="Tests.Api.SearchByOldLocalityIds.ByExistingOldIds_69" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.23199999999999998">
+            <test-case name="Test69" fullname="Tests.Api.SearchByOldLocalityIds.ByExistingOldIds_69.Test69" methodname="Test69" classname="Tests.Api.SearchByOldLocalityIds.ByExistingOldIds_69" result="Passed" duration="0.23199999999999998" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-69" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="ByMultipleOldIds_70" fullname="Tests.Api.SearchByOldLocalityIds.ByMultipleOldIds_70" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.80199999999999994">
+            <test-case name="Test70" fullname="Tests.Api.SearchByOldLocalityIds.ByMultipleOldIds_70.Test70" methodname="Test70" classname="Tests.Api.SearchByOldLocalityIds.ByMultipleOldIds_70" result="Passed" duration="0.80199999999999994" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-70" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="FilterByIsDeprecated_66" fullname="Tests.Api.SearchByOldLocalityIds.FilterByIsDeprecated_66" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.287">
+            <test-case name="Test66" fullname="Tests.Api.SearchByOldLocalityIds.FilterByIsDeprecated_66.Test66" methodname="Test66" classname="Tests.Api.SearchByOldLocalityIds.FilterByIsDeprecated_66" result="Passed" duration="1.287" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-66" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="OldLocationIdInseadOfLocality_67" fullname="Tests.Api.SearchByOldLocalityIds.OldLocationIdInseadOfLocality_67" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.3">
+            <test-case name="Test67" fullname="Tests.Api.SearchByOldLocalityIds.OldLocationIdInseadOfLocality_67.Test67" methodname="Test67" classname="Tests.Api.SearchByOldLocalityIds.OldLocationIdInseadOfLocality_67" result="Passed" duration="0.3" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-67" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="WithInvalidParameters_71" fullname="Tests.Api.SearchByOldLocalityIds.WithInvalidParameters_71" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.254">
+            <test-case name="Test71" fullname="Tests.Api.SearchByOldLocalityIds.WithInvalidParameters_71.Test71" methodname="Test71" classname="Tests.Api.SearchByOldLocalityIds.WithInvalidParameters_71" result="Passed" duration="1.254" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-71" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+        <test-suite type="TestSuite" name="SearchByOldLocationsIds" fullname="Tests.Api.SearchByOldLocationsIds" total="6" passed="5" failed="1" inconclusive="0" skipped="0" result="Failed" duration="11.798">
+          <test-suite type="TestFixture" name="SearchByExistingId_72" fullname="Tests.Api.SearchByOldLocationsIds.SearchByExistingId_72" total="1" passed="0" failed="1" inconclusive="0" skipped="0" result="Failed" duration="4.223">
+            <test-case name="Test72" fullname="Tests.Api.SearchByOldLocationsIds.SearchByExistingId_72.Test72" methodname="Test72" classname="Tests.Api.SearchByOldLocationsIds.SearchByExistingId_72" result="Failed" duration="4.223" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-72" />
+              </properties>
+              <output><![CDATA[text]]></output>
+              <failure>
+                <message>Incorrect name: UAE. Should be: United Arab Emirates.  
+[Step 8] </message>
+                <stack-trace>   at NetTAF.Assert.Fail(String message) in C:\web-locations-aqa\NetTAF\Assert.cs:line 16
+   at NetTAF.Assert.AssertTrue(Boolean condition, String passMessage, String failMessage, Boolean logAlways) in C:\web-locations-aqa\NetTAF\Assert.cs:line 27
+   at NetTAF.Assert.AssertEqual[T](T actualPropertyValue, T expectedPropertyValue, String propertyName, String failMessage, Boolean logAlways) in C:\web-locations-aqa\NetTAF\Assert.cs:line 46
+   at Api.Utils.Assert.AssertEqual[T](T actual, T expected, List`1 fields, BaseField fieldForCheck, String propertyName) in C:\web-locations-aqa\Api\Utils\Assert.cs:line 17
+   at Api.Json.Response.LocationJson.AssertLocationJson(Location location, List`1 fields) in C:\web-locations-aqa\Api\Json\Response\LocationJson.cs:line 41
+   at Api.Json.Response.LocationJson.AssertJson(Location location, List`1 fields) in C:\web-locations-aqa\Api\Json\Response\LocationJson.cs:line 31
+   at Api.Api.SearchByOldLocationsIdsApi.&lt;&gt;c__DisplayClass5_0.&lt;AssertResponse&gt;b__0(Location location) in C:\web-locations-aqa\Api\Api\SearchByOldLocationsIdsApi.cs:line 68
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Api.Api.SearchByOldLocationsIdsApi.AssertResponse(HttpResponse response, List`1 expectedLocations, SearchByOldIdsRequestParameters requestParameters, HttpStatusCode statusCode, Int32 numberOfResults, ResponseError responseError) in C:\web-locations-aqa\Api\Api\SearchByOldLocationsIdsApi.cs:line 63
+   at Api.Api.SearchByOldLocationsIdsApi.GetAndAssert(SearchByOldIdsRequestParameters requestParameters, Int32 numberOfResults, List`1 expectedLocations) in C:\web-locations-aqa\Api\Api\SearchByOldLocationsIdsApi.cs:line 34
+   at Tests.Steps.SearchByOldLocationsIdsSteps.&lt;&gt;c__DisplayClass0_0.&lt;VerifyLocationsByLocalityIds&gt;b__0() in C:\web-locations-aqa\Tests\Steps\SearchByOldLocationsIdsSteps.cs:line 19
+   at NetTAF.BaseTest.Step(Action method, String stepDescription, Dictionary`2 stepData) in C:\web-locations-aqa\NetTAF\BaseTest.cs:line 65
+   at Tests.Steps.SearchByOldLocationsIdsSteps.VerifyLocationsByLocalityIds(SearchByOldIdsRequestParameters testData, Int32 numberOfResults, Location[] expectedLocations) in C:\web-locations-aqa\Tests\Steps\SearchByOldLocationsIdsSteps.cs:line 18
+   at Tests.Api.SearchByOldLocationsIds.SearchByExistingId_72.Step_08_Ids_12042() in C:\web-locations-aqa\Tests\Api\SearchByOldLocationsIds\SearchByExistingId_72.cs:line 116
+</stack-trace>
+              </failure>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchByExistingLocationLocalityId_73" fullname="Tests.Api.SearchByOldLocationsIds.SearchByExistingLocationLocalityId_73" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.93599999999999994">
+            <test-case name="Test73" fullname="Tests.Api.SearchByOldLocationsIds.SearchByExistingLocationLocalityId_73.Test73" methodname="Test73" classname="Tests.Api.SearchByOldLocationsIds.SearchByExistingLocationLocalityId_73" result="Passed" duration="0.93599999999999994" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-73" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchByLocalityIdInsteadOfLocationId_76" fullname="Tests.Api.SearchByOldLocationsIds.SearchByLocalityIdInsteadOfLocationId_76" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.302">
+            <test-case name="Test76" fullname="Tests.Api.SearchByOldLocationsIds.SearchByLocalityIdInsteadOfLocationId_76.Test76" methodname="Test76" classname="Tests.Api.SearchByOldLocationsIds.SearchByLocalityIdInsteadOfLocationId_76" result="Passed" duration="0.302" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-76" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchByMaxNumberOfIds_74" fullname="Tests.Api.SearchByOldLocationsIds.SearchByMaxNumberOfIds_74" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="3.215">
+            <test-case name="Test74" fullname="Tests.Api.SearchByOldLocationsIds.SearchByMaxNumberOfIds_74.Test74" methodname="Test74" classname="Tests.Api.SearchByOldLocationsIds.SearchByMaxNumberOfIds_74" result="Passed" duration="3.215" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-74" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchByMultipleIds_75" fullname="Tests.Api.SearchByOldLocationsIds.SearchByMultipleIds_75" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.7859999999999998">
+            <test-case name="Test75" fullname="Tests.Api.SearchByOldLocationsIds.SearchByMultipleIds_75.Test75" methodname="Test75" classname="Tests.Api.SearchByOldLocationsIds.SearchByMultipleIds_75" result="Passed" duration="1.7859999999999998" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-75" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchWithInvalidParameters_77" fullname="Tests.Api.SearchByOldLocationsIds.SearchWithInvalidParameters_77" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.3359999999999999">
+            <test-case name="Test77" fullname="Tests.Api.SearchByOldLocationsIds.SearchWithInvalidParameters_77.Test77" methodname="Test77" classname="Tests.Api.SearchByOldLocationsIds.SearchWithInvalidParameters_77" result="Passed" duration="1.3359999999999999" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-77" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+        <test-suite type="TestSuite" name="SearchByPostCode" fullname="Tests.Api.SearchByPostCode" total="5" passed="5" failed="0" inconclusive="0" skipped="0" result="Passed" duration="7.632">
+          <test-suite type="TestFixture" name="FilterByIsDeprecated_78" fullname="Tests.Api.SearchByPostCode.FilterByIsDeprecated_78" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.324">
+            <test-case name="Test78" fullname="Tests.Api.SearchByPostCode.FilterByIsDeprecated_78.Test78" methodname="Test78" classname="Tests.Api.SearchByPostCode.FilterByIsDeprecated_78" result="Passed" duration="0.324" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-78" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchExistingPartPostCode_79" fullname="Tests.Api.SearchByPostCode.SearchExistingPartPostCode_79" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.169">
+            <test-case name="Test79" fullname="Tests.Api.SearchByPostCode.SearchExistingPartPostCode_79.Test79" methodname="Test79" classname="Tests.Api.SearchByPostCode.SearchExistingPartPostCode_79" result="Passed" duration="1.169" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-79" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchExistingPostCode_80" fullname="Tests.Api.SearchByPostCode.SearchExistingPostCode_80" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="3.392">
+            <test-case name="Test80" fullname="Tests.Api.SearchByPostCode.SearchExistingPostCode_80.Test80" methodname="Test80" classname="Tests.Api.SearchByPostCode.SearchExistingPostCode_80" result="Passed" duration="3.392" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-80" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchPostCodeNotExistingInDB_81" fullname="Tests.Api.SearchByPostCode.SearchPostCodeNotExistingInDB_81" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.525">
+            <test-case name="Test81" fullname="Tests.Api.SearchByPostCode.SearchPostCodeNotExistingInDB_81.Test81" methodname="Test81" classname="Tests.Api.SearchByPostCode.SearchPostCodeNotExistingInDB_81" result="Passed" duration="0.525" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-81" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchWithInvalidParameters_82" fullname="Tests.Api.SearchByPostCode.SearchWithInvalidParameters_82" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.222">
+            <test-case name="Test82" fullname="Tests.Api.SearchByPostCode.SearchWithInvalidParameters_82.Test82" methodname="Test82" classname="Tests.Api.SearchByPostCode.SearchWithInvalidParameters_82" result="Passed" duration="2.222" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-82" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+        <test-suite type="TestSuite" name="SearchByText" fullname="Tests.Api.SearchByText" total="17" passed="16" failed="1" inconclusive="0" skipped="0" result="Failed" duration="47.748999999999995">
+          <test-suite type="TestFixture" name="FilterByCountryCodes_83" fullname="Tests.Api.SearchByText.FilterByCountryCodes_83" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="3.086">
+            <test-case name="Test83" fullname="Tests.Api.SearchByText.FilterByCountryCodes_83.Test83" methodname="Test83" classname="Tests.Api.SearchByText.FilterByCountryCodes_83" result="Passed" duration="3.086" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-83" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="FilterByIsDeprecated_84" fullname="Tests.Api.SearchByText.FilterByIsDeprecated_84" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.642">
+            <test-case name="Test84" fullname="Tests.Api.SearchByText.FilterByIsDeprecated_84.Test84" methodname="Test84" classname="Tests.Api.SearchByText.FilterByIsDeprecated_84" result="Passed" duration="1.642" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-84" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="FilterByMapping_85" fullname="Tests.Api.SearchByText.FilterByMapping_85" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.762">
+            <test-case name="Test84" fullname="Tests.Api.SearchByText.FilterByMapping_85.Test84" methodname="Test84" classname="Tests.Api.SearchByText.FilterByMapping_85" result="Passed" duration="1.762" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-85" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchFor_86" fullname="Tests.Api.SearchByText.SearchFor_86" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="3.957">
+            <test-case name="Test86" fullname="Tests.Api.SearchByText.SearchFor_86.Test86" methodname="Test86" classname="Tests.Api.SearchByText.SearchFor_86" result="Passed" duration="3.957" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-86" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchForCity_87" fullname="Tests.Api.SearchByText.SearchForCity_87" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="12.918999999999999">
+            <test-case name="Test87" fullname="Tests.Api.SearchByText.SearchForCity_87.Test87" methodname="Test87" classname="Tests.Api.SearchByText.SearchForCity_87" result="Passed" duration="12.918999999999999" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-87" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchForCountry_88" fullname="Tests.Api.SearchByText.SearchForCountry_88" total="1" passed="0" failed="1" inconclusive="0" skipped="0" result="Failed" duration="1.668">
+            <test-case name="Test88" fullname="Tests.Api.SearchByText.SearchForCountry_88.Test88" methodname="Test88" classname="Tests.Api.SearchByText.SearchForCountry_88" result="Failed" duration="1.668" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-88" />
+              </properties>
+              <output><![CDATA[text]]></output>
+              <failure>
+                <message>Incorrect name: UAE. Should be: United Arab Emirates.  
+[Step 2] </message>
+                <stack-trace>   at NetTAF.Assert.Fail(String message) in C:\web-locations-aqa\NetTAF\Assert.cs:line 16
+   at NetTAF.Assert.AssertTrue(Boolean condition, String passMessage, String failMessage, Boolean logAlways) in C:\web-locations-aqa\NetTAF\Assert.cs:line 27
+   at NetTAF.Assert.AssertEqual[T](T actualPropertyValue, T expectedPropertyValue, String propertyName, String failMessage, Boolean logAlways) in C:\web-locations-aqa\NetTAF\Assert.cs:line 46
+   at Api.Utils.Assert.AssertEqual[T](T actual, T expected, List`1 fields, BaseField fieldForCheck, String propertyName) in C:\web-locations-aqa\Api\Utils\Assert.cs:line 17
+   at Api.Json.Response.LocationJson.AssertLocationJson(Location location, List`1 fields) in C:\web-locations-aqa\Api\Json\Response\LocationJson.cs:line 41
+   at Api.Json.Response.LocationJson.AssertJson(Location location, List`1 fields) in C:\web-locations-aqa\Api\Json\Response\LocationJson.cs:line 31
+   at Api.Json.Response.GlobalLocationJson.AssertJson(GlobalLocation expectedLocation, List`1 fields) in C:\web-locations-aqa\Api\Json\Response\GlobalLocationJson.cs:line 24
+   at Api.Api.SearchByTextApi.AssertResponse(HttpResponse response, GlobalLocation expectedLocations, SearchByTextRequestParameters requestParameters, HttpStatusCode statusCode, Int32 numberOfResults, ResponseError responseError) in C:\web-locations-aqa\Api\Api\SearchByTextApi.cs:line 70
+   at Api.Api.SearchByTextApi.GetAndAssert(SearchByTextRequestParameters requestParameters, Int32 numberOfResults, GlobalLocation expectedLocation) in C:\web-locations-aqa\Api\Api\SearchByTextApi.cs:line 34
+   at Tests.Steps.SearchByTextSteps.&lt;&gt;c__DisplayClass0_0.&lt;VerifyLocationsByLocalityIds&gt;b__0() in C:\web-locations-aqa\Tests\Steps\SearchByTextSteps.cs:line 19
+   at NetTAF.BaseTest.Step(Action method, String stepDescription, Dictionary`2 stepData) in C:\web-locations-aqa\NetTAF\BaseTest.cs:line 65
+   at Tests.Steps.SearchByTextSteps.VerifyLocationsByLocalityIds(SearchByTextRequestParameters testData, Int32 numberOfResults, GlobalLocation expectedLocation) in C:\web-locations-aqa\Tests\Steps\SearchByTextSteps.cs:line 18
+   at Tests.Api.SearchByText.SearchForCountry_88.Step_02_UnitedArabEmirates() in C:\web-locations-aqa\Tests\Api\SearchByText\SearchForCountry_88.cs:line 54
+</stack-trace>
+              </failure>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchForCounty_89" fullname="Tests.Api.SearchByText.SearchForCounty_89" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.16">
+            <test-case name="Test89" fullname="Tests.Api.SearchByText.SearchForCounty_89.Test89" methodname="Test89" classname="Tests.Api.SearchByText.SearchForCounty_89" result="Passed" duration="1.16" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-89" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchForForeignTown_90" fullname="Tests.Api.SearchByText.SearchForForeignTown_90" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="4.9049999999999994">
+            <test-case name="Test90" fullname="Tests.Api.SearchByText.SearchForForeignTown_90.Test90" methodname="Test90" classname="Tests.Api.SearchByText.SearchForForeignTown_90" result="Passed" duration="4.9049999999999994" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-90" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchForFuzzyLocationName_91" fullname="Tests.Api.SearchByText.SearchForFuzzyLocationName_91" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.90399999999999991">
+            <test-case name="Test91" fullname="Tests.Api.SearchByText.SearchForFuzzyLocationName_91.Test91" methodname="Test91" classname="Tests.Api.SearchByText.SearchForFuzzyLocationName_91" result="Passed" duration="0.90399999999999991" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-91" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchForHiddenLocation_92" fullname="Tests.Api.SearchByText.SearchForHiddenLocation_92" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.473">
+            <test-case name="Test92" fullname="Tests.Api.SearchByText.SearchForHiddenLocation_92.Test92" methodname="Test92" classname="Tests.Api.SearchByText.SearchForHiddenLocation_92" result="Passed" duration="0.473" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-92" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchForPartPostCode_93" fullname="Tests.Api.SearchByText.SearchForPartPostCode_93" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.89399999999999991">
+            <test-case name="Test93" fullname="Tests.Api.SearchByText.SearchForPartPostCode_93.Test93" methodname="Test93" classname="Tests.Api.SearchByText.SearchForPartPostCode_93" result="Passed" duration="0.89399999999999991" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-93" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchForPostCode_94" fullname="Tests.Api.SearchByText.SearchForPostCode_94" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.0859999999999999">
+            <test-case name="Test94" fullname="Tests.Api.SearchByText.SearchForPostCode_94.Test94" methodname="Test94" classname="Tests.Api.SearchByText.SearchForPostCode_94" result="Passed" duration="1.0859999999999999" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-94" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchForRegion_95" fullname="Tests.Api.SearchByText.SearchForRegion_95" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.7959999999999998">
+            <test-case name="Test95" fullname="Tests.Api.SearchByText.SearchForRegion_95.Test95" methodname="Test95" classname="Tests.Api.SearchByText.SearchForRegion_95" result="Passed" duration="1.7959999999999998" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-95" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchForStreet_96" fullname="Tests.Api.SearchByText.SearchForStreet_96" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.486">
+            <test-case name="Test96" fullname="Tests.Api.SearchByText.SearchForStreet_96.Test96" methodname="Test96" classname="Tests.Api.SearchByText.SearchForStreet_96" result="Passed" duration="1.486" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-96" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchForSubCountry_97" fullname="Tests.Api.SearchByText.SearchForSubCountry_97" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.80499999999999994">
+            <test-case name="Test97" fullname="Tests.Api.SearchByText.SearchForSubCountry_97.Test97" methodname="Test97" classname="Tests.Api.SearchByText.SearchForSubCountry_97" result="Passed" duration="0.80499999999999994" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-97" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchForUKTown_98" fullname="Tests.Api.SearchByText.SearchForUKTown_98" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="8.302999999999999">
+            <test-case name="Test98" fullname="Tests.Api.SearchByText.SearchForUKTown_98.Test98" methodname="Test98" classname="Tests.Api.SearchByText.SearchForUKTown_98" result="Passed" duration="8.302999999999999" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-98" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SearchWithInvalidParameters_99" fullname="Tests.Api.SearchByText.SearchWithInvalidParameters_99" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.90299999999999991">
+            <test-case name="Test99" fullname="Tests.Api.SearchByText.SearchWithInvalidParameters_99.Test99" methodname="Test99" classname="Tests.Api.SearchByText.SearchWithInvalidParameters_99" result="Passed" duration="0.90299999999999991" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-99" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+        <test-suite type="TestSuite" name="Suggest" fullname="Tests.Api.Suggest" total="17" passed="15" failed="2" inconclusive="0" skipped="0" result="Failed" duration="100.021">
+          <test-suite type="TestFixture" name="SuggestArea_105" fullname="Tests.Api.Suggest.SuggestArea_105" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="16.553">
+            <test-case name="Test105" fullname="Tests.Api.Suggest.SuggestArea_105.Test105" methodname="Test105" classname="Tests.Api.Suggest.SuggestArea_105" result="Passed" duration="16.553" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-105" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestCity_106" fullname="Tests.Api.Suggest.SuggestCity_106" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="29.151999999999997">
+            <test-case name="Test106" fullname="Tests.Api.Suggest.SuggestCity_106.Test106" methodname="Test106" classname="Tests.Api.Suggest.SuggestCity_106" result="Passed" duration="29.151999999999997" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-106" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestCountry_107" fullname="Tests.Api.Suggest.SuggestCountry_107" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="4.5779999999999994">
+            <test-case name="Test107" fullname="Tests.Api.Suggest.SuggestCountry_107.Test107" methodname="Test107" classname="Tests.Api.Suggest.SuggestCountry_107" result="Passed" duration="4.5779999999999994" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-107" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestCounty_109" fullname="Tests.Api.Suggest.SuggestCounty_109" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.439">
+            <test-case name="Test109" fullname="Tests.Api.Suggest.SuggestCounty_109.Test109" methodname="Test109" classname="Tests.Api.Suggest.SuggestCounty_109" result="Passed" duration="0.439" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-109" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestFilterByIsDeprecated_100" fullname="Tests.Api.Suggest.SuggestFilterByIsDeprecated_100" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.23199999999999998">
+            <test-case name="Test100" fullname="Tests.Api.Suggest.SuggestFilterByIsDeprecated_100.Test100" methodname="Test100" classname="Tests.Api.Suggest.SuggestFilterByIsDeprecated_100" result="Passed" duration="0.23199999999999998" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-100" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestFilterByLocationTypes_101" fullname="Tests.Api.Suggest.SuggestFilterByLocationTypes_101" total="1" passed="0" failed="1" inconclusive="0" skipped="0" result="Failed" duration="0.761">
+            <test-case name="Test101" fullname="Tests.Api.Suggest.SuggestFilterByLocationTypes_101.Test101" methodname="Test101" classname="Tests.Api.Suggest.SuggestFilterByLocationTypes_101" result="Failed" duration="0.761" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-101" />
+              </properties>
+              <output><![CDATA[text]]></output>
+              <failure>
+                <message>Incorrect searchName: London, Kentucky, USA. Should be: London, Kentucky, United States of America.  
+[Step 1] </message>
+                <stack-trace>   at NetTAF.Assert.Fail(String message) in C:\web-locations-aqa\NetTAF\Assert.cs:line 16
+   at NetTAF.Assert.AssertTrue(Boolean condition, String passMessage, String failMessage, Boolean logAlways) in C:\web-locations-aqa\NetTAF\Assert.cs:line 27
+   at NetTAF.Assert.AssertEqual[T](T actualPropertyValue, T expectedPropertyValue, String propertyName, String failMessage, Boolean logAlways) in C:\web-locations-aqa\NetTAF\Assert.cs:line 46
+   at Api.Utils.Assert.AssertEqual[T](T actual, T expected, List`1 fields, BaseField fieldForCheck, String propertyName) in C:\web-locations-aqa\Api\Utils\Assert.cs:line 17
+   at Api.Json.Response.LocationJson.AssertLocationJson(Location location, List`1 fields) in C:\web-locations-aqa\Api\Json\Response\LocationJson.cs:line 42
+   at Api.Json.Response.LocationJson.AssertJson(Location location, List`1 fields) in C:\web-locations-aqa\Api\Json\Response\LocationJson.cs:line 31
+   at Api.Json.Response.GlobalLocationJson.AssertJson(GlobalLocation expectedLocation, List`1 fields) in C:\web-locations-aqa\Api\Json\Response\GlobalLocationJson.cs:line 24
+   at Api.Api.SuggestApi.AssertResponse(HttpResponse response, GlobalLocation expectedLocations, SuggestRequestParameters requestParameters, HttpStatusCode statusCode, Int32 numberOfResults, ResponseError responseError) in C:\web-locations-aqa\Api\Api\SuggestApi.cs:line 69
+   at Api.Api.SuggestApi.GetAndAssert(SuggestRequestParameters requestParameters, Int32 numberOfResults, GlobalLocation expectedLocations) in C:\web-locations-aqa\Api\Api\SuggestApi.cs:line 33
+   at Tests.Steps.SuggestSteps.&lt;&gt;c__DisplayClass0_0.&lt;VerifyLocationsByLocalityIds&gt;b__0() in C:\web-locations-aqa\Tests\Steps\SuggestSteps.cs:line 19
+   at NetTAF.BaseTest.Step(Action method, String stepDescription, Dictionary`2 stepData) in C:\web-locations-aqa\NetTAF\BaseTest.cs:line 65
+   at Tests.Steps.SuggestSteps.VerifyLocationsByLocalityIds(SuggestRequestParameters testData, Int32 numberOfResults, GlobalLocation expectedLocations) in C:\web-locations-aqa\Tests\Steps\SuggestSteps.cs:line 18
+   at Tests.Api.Suggest.SuggestFilterByLocationTypes_101.Step_01_London() in C:\web-locations-aqa\Tests\Api\Suggest\SuggestFilterByLocationTypes_101.cs:line 36
+</stack-trace>
+              </failure>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestFuzzyLocation_104" fullname="Tests.Api.Suggest.SuggestFuzzyLocation_104" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="8.512">
+            <test-case name="Test104" fullname="Tests.Api.Suggest.SuggestFuzzyLocation_104.Test104" methodname="Test104" classname="Tests.Api.Suggest.SuggestFuzzyLocation_104" result="Passed" duration="8.512" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-104" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestHiddenLocation_110" fullname="Tests.Api.Suggest.SuggestHiddenLocation_110" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.283">
+            <test-case name="Test110" fullname="Tests.Api.Suggest.SuggestHiddenLocation_110.Test110" methodname="Test110" classname="Tests.Api.Suggest.SuggestHiddenLocation_110" result="Passed" duration="0.283" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-110" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestIsland_111" fullname="Tests.Api.Suggest.SuggestIsland_111" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.981">
+            <test-case name="Test111" fullname="Tests.Api.Suggest.SuggestIsland_111.Test111" methodname="Test111" classname="Tests.Api.Suggest.SuggestIsland_111" result="Passed" duration="0.981" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-111" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestNgramSuggestDisabled_102" fullname="Tests.Api.Suggest.SuggestNgramSuggestDisabled_102" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.91799999999999993">
+            <test-case name="Test102" fullname="Tests.Api.Suggest.SuggestNgramSuggestDisabled_102.Test102" methodname="Test102" classname="Tests.Api.Suggest.SuggestNgramSuggestDisabled_102" result="Passed" duration="0.91799999999999993" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-102" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestNoLocationFound_103" fullname="Tests.Api.Suggest.SuggestNoLocationFound_103" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.696">
+            <test-case name="Test103" fullname="Tests.Api.Suggest.SuggestNoLocationFound_103.Test103" methodname="Test103" classname="Tests.Api.Suggest.SuggestNoLocationFound_103" result="Passed" duration="0.696" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-103" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestPartPostCode_112" fullname="Tests.Api.Suggest.SuggestPartPostCode_112" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="4.776">
+            <test-case name="Test112" fullname="Tests.Api.Suggest.SuggestPartPostCode_112.Test112" methodname="Test112" classname="Tests.Api.Suggest.SuggestPartPostCode_112" result="Passed" duration="4.776" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-112" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestPostCode_113" fullname="Tests.Api.Suggest.SuggestPostCode_113" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="4.885">
+            <test-case name="Test113" fullname="Tests.Api.Suggest.SuggestPostCode_113.Test113" methodname="Test113" classname="Tests.Api.Suggest.SuggestPostCode_113" result="Passed" duration="4.885" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-113" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestRegion_114" fullname="Tests.Api.Suggest.SuggestRegion_114" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.59">
+            <test-case name="Test114" fullname="Tests.Api.Suggest.SuggestRegion_114.Test114" methodname="Test114" classname="Tests.Api.Suggest.SuggestRegion_114" result="Passed" duration="0.59" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-114" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestSubCountry_115" fullname="Tests.Api.Suggest.SuggestSubCountry_115" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="1.188">
+            <test-case name="Test115" fullname="Tests.Api.Suggest.SuggestSubCountry_115.Test115" methodname="Test115" classname="Tests.Api.Suggest.SuggestSubCountry_115" result="Passed" duration="1.188" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-115" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestTown_116" fullname="Tests.Api.Suggest.SuggestTown_116" total="1" passed="0" failed="1" inconclusive="0" skipped="0" result="Failed" duration="23.357">
+            <test-case name="Test116" fullname="Tests.Api.Suggest.SuggestTown_116.Test116" methodname="Test116" classname="Tests.Api.Suggest.SuggestTown_116" result="Failed" duration="23.357" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-116" />
+              </properties>
+              <output><![CDATA[text]]></output>
+              <failure>
+                <message>Incorrect searchName: Junction, Texas, USA. Should be: Junction, Texas, United States of America.  
+[Step 50] </message>
+                <stack-trace>   at NetTAF.Assert.Fail(String message) in C:\web-locations-aqa\NetTAF\Assert.cs:line 16
+   at NetTAF.Assert.AssertTrue(Boolean condition, String passMessage, String failMessage, Boolean logAlways) in C:\web-locations-aqa\NetTAF\Assert.cs:line 27
+   at NetTAF.Assert.AssertEqual[T](T actualPropertyValue, T expectedPropertyValue, String propertyName, String failMessage, Boolean logAlways) in C:\web-locations-aqa\NetTAF\Assert.cs:line 46
+   at Api.Utils.Assert.AssertEqual[T](T actual, T expected, List`1 fields, BaseField fieldForCheck, String propertyName) in C:\web-locations-aqa\Api\Utils\Assert.cs:line 17
+   at Api.Json.Response.LocationJson.AssertLocationJson(Location location, List`1 fields) in C:\web-locations-aqa\Api\Json\Response\LocationJson.cs:line 42
+   at Api.Json.Response.LocationJson.AssertJson(Location location, List`1 fields) in C:\web-locations-aqa\Api\Json\Response\LocationJson.cs:line 31
+   at Api.Json.Response.GlobalLocationJson.AssertJson(GlobalLocation expectedLocation, List`1 fields) in C:\web-locations-aqa\Api\Json\Response\GlobalLocationJson.cs:line 24
+   at Api.Api.SuggestApi.AssertResponse(HttpResponse response, GlobalLocation expectedLocations, SuggestRequestParameters requestParameters, HttpStatusCode statusCode, Int32 numberOfResults, ResponseError responseError) in C:\web-locations-aqa\Api\Api\SuggestApi.cs:line 69
+   at Api.Api.SuggestApi.GetAndAssert(SuggestRequestParameters requestParameters, Int32 numberOfResults, GlobalLocation expectedLocations) in C:\web-locations-aqa\Api\Api\SuggestApi.cs:line 33
+   at Tests.Steps.SuggestSteps.&lt;&gt;c__DisplayClass0_0.&lt;VerifyLocationsByLocalityIds&gt;b__0() in C:\web-locations-aqa\Tests\Steps\SuggestSteps.cs:line 19
+   at NetTAF.BaseTest.Step(Action method, String stepDescription, Dictionary`2 stepData) in C:\web-locations-aqa\NetTAF\BaseTest.cs:line 65
+   at Tests.Steps.SuggestSteps.VerifyLocationsByLocalityIds(SuggestRequestParameters testData, Int32 numberOfResults, GlobalLocation expectedLocations) in C:\web-locations-aqa\Tests\Steps\SuggestSteps.cs:line 18
+   at Tests.Api.Suggest.SuggestTown_116.Step_50_junctio() in C:\web-locations-aqa\Tests\Api\Suggest\SuggestTown_116.cs:line 1019
+</stack-trace>
+              </failure>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" name="SuggestWithInvalidParameters_117" fullname="Tests.Api.Suggest.SuggestWithInvalidParameters_117" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" duration="2.12">
+            <test-case name="Test117" fullname="Tests.Api.Suggest.SuggestWithInvalidParameters_117.Test117" methodname="Test117" classname="Tests.Api.Suggest.SuggestWithInvalidParameters_117" result="Passed" duration="2.12" asserts="0">
+              <properties>
+                <property name="Test" value="TSSS-117" />
+              </properties>
+              <output><![CDATA[text]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+    <errors />
+  </test-suite>
+</test-run>
